@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently finishing my Ph.D.
+- 🌱 I’m currently learning how to navigate GitHub
+- 👯 I’m looking to collaborate on anything, but I am bad at everything.
+- 🤔 I’m looking for help with everything.
+- 💬 Ask me about quantum physics
+- ⚡ Fun fact: I love Digimon
+
 <!--
 **Tinamon-exe/Tinamon-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
